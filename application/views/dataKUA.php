@@ -251,36 +251,36 @@
         <table class="table table-success text-center table-hover">
             <tbody>
                 <tr>
-                    <td rowspan="2">
+                    <th rowspan="2">
 
                         <p>NO</p>
-                    </td>
-                    <td rowspan="2">
+                    </th>
+                    <th rowspan="2">
                         <p>KELURAHAN/DESA</p>
-                    </td>
-                    <td colspan="6">
+                    </th>
+                    <th colspan="6">
                         <p>BANYAKNYA SARANA/ TEMPAT IBADAH</p>
-                    </td>
+                    </th>
                 </tr>
                 <tr>
-                    <td>
+                    <th>
                         <p>Masjid</p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p>Mushallah</p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p>Gereja</p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p>Kuil</p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p>Wihara</p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p>Klenteng</p>
-                    </td>
+                    </th>
                 </tr>
                 <tr>
                     <td>
@@ -496,70 +496,70 @@
         <table class="table table-success text-center table-hover">
             <tbody>
                 <tr>
-                    <td rowspan="2">
+                    <th rowspan="2">
 
                         <p>NO</p>
-                    </td>
-                    <td rowspan="2">
+                    </th>
+                    <th rowspan="2">
                         <p>KELURAHAN</p>
                         <p>/DESA</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Jumlah</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Masjid</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Langgar/Mushallah</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Madrasah/Sekolah</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Kuburan /Makam</p>
-                    </td>
-                    <td colspan="2">
+                    </th>
+                    <th colspan="2">
                         <p>Sosial/Lain</p>
-                    </td>
+                    </th>
                 </tr>
                 <tr>
-                    <td>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Lokasi </strong></p>
-                    </td>
-                    <td>
+                    </th>
+                    <th>
                         <p><strong>Luas M2</strong></p>
-                    </td>
+                    </th>
                 </tr>
                 <tr>
                     <td>
