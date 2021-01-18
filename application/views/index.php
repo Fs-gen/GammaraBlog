@@ -64,7 +64,7 @@
 			<?php for ($i = 0; $i < 8; $i++) : ?>
 				<div class="col-md-4">
 
-					<div class="card mb-2" style="">
+					<div class="card mb-2">
 						<img src="<?= $news['img'][$i] ?>" class="card-img-top" alt="...">
 						<div class="card-body">
 							<!-- <h5 class="card-title">Card title</h5> -->
