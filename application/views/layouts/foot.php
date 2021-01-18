@@ -41,7 +41,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Pilih Kategori: </h5>
+                <h5 class="modal-title" id="exampleModalLabel">Pelayanan Online</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -51,7 +51,7 @@
                     <label for="">Nama</label>
                     <input type="text" class="form-control" placeholder="Ketik Nama Anda" id="nama">
                     <br>
-                    <label for="categori">Pelayanan Online</label>
+                    <label for="categori">Pilih Kategori</label>
                     <select name="category" id="formWA" class="form-control">
                         <option value="Bimbingan%20Perkawinan+Online">Bimbingan Perkawinan</option>
                         <option value="Melakukan+Pengaduan+Online">Pengaduan</option>
