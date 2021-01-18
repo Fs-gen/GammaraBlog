@@ -51,7 +51,7 @@
                     <label for="">Nama</label>
                     <input type="text" class="form-control" placeholder="Ketik Nama Anda" id="nama">
                     <br>
-                    <label for="categori">Pilih Kategori</label>
+                    <label for="categori">Pelayanan Online</label>
                     <select name="category" id="formWA" class="form-control">
                         <option value="Bimbingan%20Perkawinan+Online">Bimbingan Perkawinan</option>
                         <option value="Melakukan+Pengaduan+Online">Pengaduan</option>
