@@ -74,4 +74,5 @@
         <div><img src="<?= base_url('assets') ?>/img/4.jpeg" alt="" srcset=""></div>
         <div><img src="<?= base_url('assets') ?>/img/5.jpg" alt="" srcset=""></div>
         <div><img src="<?= base_url('assets') ?>/img/6.jpg" alt="" srcset=""></div>
+        <div><img src="<?= base_url('assets') ?>/img/7.jpg" alt="" srcset=""></div>
     </div>
